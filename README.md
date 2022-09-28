@@ -69,8 +69,8 @@ From: 22 September 2022 - To: 28 September 2022
 
 Total Time: 2 hrs 17 mins
 
-Markdown   2 hrs 17 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.96 %
-YAML       0 secs          -------------------------   00.04 %
+Markdown   2 hrs 17 mins   █████████████████████████   99.96 %
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->

@@ -57,7 +57,6 @@ You can use the website to generate badges: https://shields.io/
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 ![Zhou Zhiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzr997good&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzr997good)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

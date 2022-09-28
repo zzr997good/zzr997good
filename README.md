@@ -58,6 +58,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 ![Zhou Zhiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzr997good&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=tokyonight)
 <!--START_SECTION:waka-->
+
+```text
+From: 22 September 2022 - To: 28 September 2022
+
+Total Time: 2 hrs 17 mins
+
+Markdown   2 hrs 17 mins   >>>>>>>>>>>>>>>>>>>>>>>>>   99.96 %
+YAML       0 secs          -------------------------   00.04 %
+```
+
 <!--END_SECTION:waka-->
 
 </a>

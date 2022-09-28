@@ -1,5 +1,5 @@
 <!-- Your title -->
-# ***Zhiren Zhou***   ![ViewerCount](https://komarev.com/ghpvc/?username=zzr997good&style=for-the-badge) 
+# ***Zhiren Zhou***   
 
 
 <!-- Your badges
@@ -14,6 +14,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="100%" align="" alt="Github" src="https://images2.alphacoders.com/749/749693.jpg" />
+
 
 <!-- Talking about you -->
 ### **Talking about Personal Stuffs:**
@@ -56,7 +57,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-![Zhou Zhiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzr997good&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=tokyonight)
+
+![ViewerCount](https://komarev.com/ghpvc/?username=zzr997good&style=for-the-badge) 
+
+
+![Zhou Zhiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzr997good&count_private=true&show_icons=true&theme=tokyonight)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
@@ -73,8 +78,8 @@ I created these images, feel free to use them.
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
   </a> -->
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+  <a href="https://www.buymeacoffee.com/zzr997good" target="_blank">
+      <img width="30%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
 

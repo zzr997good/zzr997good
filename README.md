@@ -1,83 +1,79 @@
 <!-- Your title -->
-## Hi, I'm Zhiren Zhou, a graduate student in Texas A&M University.
+# ***Zhiren Zhou***   ![ViewerCount](https://komarev.com/ghpvc/?username=zzr997good&style=for-the-badge) 
+
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zzr997good)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zhiren-zhou/)
+&nbsp;
+[![Github](https://img.shields.io/badge/-Github-ffa31a?style=for-the-badge&logo=Github&logoColor=black)](https://github.com/zzr997good)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiren-zhou/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/here_is_zzr/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](zzr997good@tamu.edu/)
-
+[![Leetcode](https://img.shields.io/badge/Leetcode-000?style=for-the-badge&logo=Leetcode)](https://leetcode.com/zzr997good/)
 &nbsp;
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
-
 <!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="100%" align="" alt="Github" src="https://images2.alphacoders.com/749/749693.jpg" />
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
+<!-- Talking about you -->
+### **Talking about Personal Stuffs:**
+
+- 👨‍🎓 I’m currently a graduate student in Texas A&M University.
+- 💻 My major is computer engineering.
+- 🌱 I’m currently learning Operating System and Machine Learning.
+- 🤝 I’m looking looking for an internship in winter 2022 and spring 2023.
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+- ⚡️ Fun-Fact: I have a degree in electronic engineering;
+- 📫 How to reach me: zzr997good@tamu.edu;
 
-**Languages and Tools:** 
+### **Languages and Tools:**
 
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://rahuldkjain.github.io/gh-profile-readme-generator/
+  -->
+  <p align="left">
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+       <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+            <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
+         <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> 
+        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+           <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+    </p>
+
+### **Statistics:**
 <!-- Your github readme stats
 You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
-<p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
-  
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-</p>
+![Zhou Zhiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzr997good&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzr997good)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="HitCount" src="http://hits.dwyl.com/onimur/onimur.svg" />
-  <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=onimur.onimur" />
-  <!-- https://github.com/wesky93/views this is a clone of the hits -->
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
+</a>
 
-## Support me
+### **Support me**
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
-<p align="center">
-  <a href="https://www.patreon.com/onimur" target="_blank">
+<p align="left">
+  <!-- <a href="https://www.patreon.com/onimur" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
   </a>
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
+  </a> -->
   <a href="https://www.buymeacoffee.com/onimur" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
@@ -85,20 +81,6 @@ I created these images, feel free to use them.
 
 ---
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
-  </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
-  </a>
-</p>
-
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
-⭐️ From [onimur](https://github.com/onimur)
-
-<!--END_SECTION:waka-->
 <!---
 zzr997good/zzr997good is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

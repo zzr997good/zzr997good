@@ -65,7 +65,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2022 - To: 02 January 2023
+From: 22 September 2022 - To: 03 January 2023
 
 Total Time: 93 hrs 48 mins
 

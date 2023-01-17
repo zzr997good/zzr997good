@@ -61,9 +61,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ![ViewerCount](https://komarev.com/ghpvc/?username=zzr997good&style=for-the-badge) 
 
 
-![Zhou Zhiren's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzr997good&count_private=true&show_icons=true&theme=tokyonight)
-<!--START_SECTION:waka-->
-
 ```text
 From: 22 September 2022 - To: 15 January 2023
 

@@ -61,15 +61,16 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 ![ViewerCount](https://komarev.com/ghpvc/?username=zzr997good&style=for-the-badge) 
 
 <!--START_SECTION:waka-->
+
 ```text
-From: 22 September 2022 - To: 15 January 2023
+From: 22 September 2022 - To: 31 January 2023
 
-Total Time: 94 hrs 43 mins
+Total Time: 95 hrs 59 mins
 
-C             45 hrs 34 mins  ████████████░░░░░░░░░░░░░   48.11 %
-Markdown      25 hrs 47 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
-C++           20 hrs 47 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
-JSON          1 hr 19 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+C             45 hrs 34 mins  ████████████░░░░░░░░░░░░░   47.47 %
+Markdown      25 hrs 52 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.95 %
+C++           21 hrs 43 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+JSON          1 hr 31 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 Git           38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 YAML          15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```

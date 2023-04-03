@@ -63,14 +63,14 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2022 - To: 31 March 2023
+From: 22 September 2022 - To: 01 April 2023
 
-Total Time: 104 hrs 1 min
+Total Time: 104 hrs 9 mins
 
-C             45 hrs 34 mins  ███████████░░░░░░░░░░░░░░   43.81 %
-Markdown      26 hrs 51 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
-C++           24 hrs 11 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
-JavaScript    2 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+C             45 hrs 34 mins  ███████████░░░░░░░░░░░░░░   43.75 %
+Markdown      26 hrs 51 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
+C++           24 hrs 11 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.23 %
+JavaScript    2 hrs 15 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 JSON          1 hr 36 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 Ruby          58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```

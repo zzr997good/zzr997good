@@ -21,9 +21,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨‍🎓 I’m currently a graduate student in Texas A&M University.
 - 💻 My major is computer engineering.
-- 🌱 I’m currently learning Operating System and Machine Learning.
-- 🤝 I’m looking looking for an internship in winter 2022 and spring 2023.
-- 💬 Ask me about anything, I am happy to help.
+- 🤝 I’m going to graduate in December 2023 and I am looking for a ng position.
 - ⚡️ Fun-Fact: I have a degree in electronic engineering.
 - 📫 How to reach me: zzr997good@tamu.edu.
 
